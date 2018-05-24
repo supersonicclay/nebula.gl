@@ -1,16 +1,16 @@
 CACHE MANIFEST
-#ver:2018-5-17 21:38:52
+#ver:5/23/2018, 6:43:21 PM
 #plugin:4.9.1
 
 CACHE:
-../bundle-74fd1da45a711ab5fe22.js
-../styles-74fd1da45a711ab5fe22.css
+../bundle-03d1988f041b413a42c1.js
+../styles-03d1988f041b413a42c1.css
 ../
-../favicon.ico
 ../images/footer-pattern.gif
 ../images/icon-chart.svg
-../images/icon-high-precision.svg
+../favicon.ico
 ../images/icon-custom.svg
+../images/icon-high-precision.svg
 ../images/icon-layers.svg
 ../images/hero.jpg
 ../images/icon-react.svg
